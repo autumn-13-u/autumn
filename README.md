@@ -33,10 +33,4 @@ autumn/
 
 The frontend will communicate with the backend; it will not work directly with the project data files.
 
-## Current lesson
-
-**Lesson 1 — Functions**
-
-Create `lesson_01.py` and write a function that accepts two numbers, adds them, returns the result, and then prints that returned result. The aim is to understand the difference between `return` and `print()`.
-
-The lesson code is written by the project owner. Code review, debugging, and explanations follow after it is written.
+##Purely by Alvar Kennedy Otieno
